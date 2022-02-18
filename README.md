@@ -1,6 +1,7 @@
 # BunnyBros-CodeSec
 Repository for all assets from team Bunny Bros for the CodeSec competition
 
+**BRIEF**
 
 Design a project for the education sector - or anything to do with learning. This can be anything from innovating learning methods to making content easier to understand! You will be judged on:
 
