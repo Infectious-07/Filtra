@@ -20,4 +20,4 @@ Design a project for the education sector - or anything to do with learning. Thi
 Potential projects include AI powered educational platforms or teacher-assistant  apps.
 
 **IDEA 1**
-A Search Engine that only has reliable sources so students dont use any fake news in essays
+/nA Search Engine that only has reliable sources so students dont use any fake news in essays
