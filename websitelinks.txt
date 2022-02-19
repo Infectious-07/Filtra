@@ -23,7 +23,7 @@ https://www.wolframalpha.com/
 https://www.researchgate.net/search
 https://www.gilderlehrman.org/
 https://rrchnm.org/what-we-do/
-http://www.digitalhistory.uh.edu/
+https://www.digitalhistory.uh.edu/
 https://www.timemaps.com/
 https://spartacus-educational.com/
 https://sheg.stanford.edu/history-lessons
@@ -38,7 +38,7 @@ https://www.mlanet.org/resources/userguide.html
 https://adaa.org/
 https://goaskalice.columbia.edu/
 https://www.thelancet.com/
-http://www.wma.net/
+https://www.wma.net/
 https://www.bmj.com/
 https://www.nejm.org/
 https://www.chemistryworld.com/
