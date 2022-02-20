@@ -47,6 +47,13 @@
     width: 40vmax;
     border-radius: 30px;
     outline: none;
+<<<<<<< HEAD
+=======
+    border: 1px solid gray;
+    width: 15vmax;
+    height: 35px;
+    border-radius: 20px;
+>>>>>>> ce75b188e989fbddeccc4dd5d8b8817ac1a7ed7f
     padding-left: 20px;
     padding-top: 15px;
     padding-bottom: 10px;
@@ -61,5 +68,10 @@
 .all {
     background: rgb(248,249,250);
     border: none;
+<<<<<<< HEAD
     cursor: pointer;
 }
+=======
+    cursor: pointer
+}
+>>>>>>> ce75b188e989fbddeccc4dd5d8b8817ac1a7ed7f
