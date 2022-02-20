@@ -6,6 +6,3 @@ newelement.src = `https://www.googleapis.com/customsearch/v1?key=AIzaSyDtMrQJ3Kl
 newelement.id = 'mainscript';
 document.body.appendChild(newelement);
 }
-
-
-// disclaimer: do not share your code WITH your API key showing; otherwise it is at risk at being stolen! keep it safe :)
