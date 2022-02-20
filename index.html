@@ -1,24 +1,30 @@
-
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width">
-    <title>Filtra</title>
-    <link href="style.css" rel="stylesheet" type="text/css" />
-    <link href="Filtra.png" rel="shortcut icon" type="image/x-icon">
-  </head>
-  <body>
-<img src="Gogle.png" width="400" class="image">
-<div class="search">
-  <input type="text" id="search" class="input">
-  <button id="submit" class="searchbtn" onclick="submit()">Search</button>
-</div>
-<div id="buttons" class="buttons">
-  <button id="allbutton" class="all" onclick="submit()"></button>
-</div>
-<div id="content"></div>
-<script src="script.js"></script>
-<script id="query" src="query.js"></script>
-  </body>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Filtra - Searches made reliable</title>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+        <link href="style.css" rel="stylesheet" type="text/css" />
+        <link href="Filtra.png" rel="shortcut icon" type="image/x-icon">
+        <script>
+            function initialize() {
+                var val = document.getElementById('search').value;
+                submit(val)
+            }
+        </script>
+    </head>
+    <body>
+        <img src="Filtra.png" width="400" class="image">
+        <div class="search">
+            <input type="search" id="search" class="input" placeholder="Search...">
+            <button id="submit" class="searchbtn" onclick="initialize()">Search</button>
+        </div>
+        <div id="buttons" class="buttons">
+            <button id="allbutton" class="all" onclick="submit()"></button>
+        </div>
+        <div id="content" style="background: rgb(248,249,250)"></div>
+        <script src="script.js"></script>
+        <script id="query" src="query.js"></script>
+    </body>
 </html>
